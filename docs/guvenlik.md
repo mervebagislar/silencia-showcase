@@ -117,16 +117,6 @@ Silencia’da yetkilendirme, **kullanıcı bazlı erişim kontrolü** ile sağla
 - Yetkisiz erişim senaryoları kontrol edilmiştir
 - Firestore rule ihlalleri test edilmiştir
 
----
-
-## ⚠️ Sorumluluk Reddi
-
-Bu uygulama **eğitim ve prototip amaçlı** geliştirilmiştir.
-Gerçek bir üretim ortamında ek olarak:
-- Penetrasyon testleri
-- Rate limiting
-- Audit log sistemleri
-önerilmektedir.
 
 ---
 
@@ -137,3 +127,4 @@ modern güvenlik standartlarına uygun bir mimari ile geliştirilmiştir.
 
 Uygulama; **kimlik doğrulama, veri izolasyonu ve servis ayrımı**
 konularında güçlü ve sürdürülebilir bir yapı sunar.
+
