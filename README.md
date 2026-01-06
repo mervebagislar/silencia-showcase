@@ -423,7 +423,7 @@ Proje hakkında sorularınız veya geri bildirimleriniz için:
 - **Email**: [mervebagislar07@gmail.com]
 - **LinkedIn**: [linkedin.com/in/mervebagislar](https://linkedin.com/in/mervebagislar)
 - **GitHub**: [github.com/mervebagislar](https://github.com/mervebagislar)
-- **Portfolio**: [portfolio-website.com](https://mervebagislar.com)
+- **Portfolio**: [https://mervebagislar.com](https://mervebagislar.com)
 
 ---
 
