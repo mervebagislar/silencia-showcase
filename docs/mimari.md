@@ -1007,4 +1007,5 @@ Presentation → Domain ← Data
 
 ---
 
-**Not:** Bu dokümantasyon, mimari analiz amaçlıdır ve gerçek kod implementasyonlarını içermez. Tüm kod örnekleri temsilîdir ve eğitim amaçlıdır.
+**Not:** Bu dokümantasyon, mimari analiz amaçlıdır ve gerçek kod implementasyonlarını içermez.
+
