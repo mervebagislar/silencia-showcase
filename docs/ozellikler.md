@@ -16,7 +16,7 @@ Kullanıcının uygulamaya girişte tüm temel özelliklere hızlıca erişebild
 - Dark / Light tema desteği
 
 <p align="center">
-  <img src="screenshots/homepage_dark1.png" width="220"/>
+  <img src="/screenshots/homepage_dark1.png" width="220"/>
   <img src="screenshots/homepage_dark2.png" width="220"/>
 </p>
 
@@ -208,3 +208,4 @@ Teknik mimari ve entegrasyon detayları için aşağıdaki dosyalara bakabilirsi
 
 - `mimari.md`
 - `ml-integration.md`
+
