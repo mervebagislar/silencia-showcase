@@ -420,7 +420,7 @@ Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylar için [LICENSE](LICEN
 Proje hakkında sorularınız veya geri bildirimleriniz için:
 
 - **Proje Sahibi**: [Merve Bağışlar]
-- **Email**: [mervebagislar07@gmail.com]
+- **Email**: mervebagislar07@gmail.com
 - **LinkedIn**: [linkedin.com/in/mervebagislar](https://linkedin.com/in/mervebagislar)
 - **GitHub**: [github.com/mervebagislar](https://github.com/mervebagislar)
 - **Portfolio**: [https://mervebagislar.com](https://mervebagislar.com)
