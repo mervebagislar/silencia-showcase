@@ -17,12 +17,12 @@ Kullanıcının uygulamaya girişte tüm temel özelliklere hızlıca erişebild
 
 <p align="center">
   <img src="/screenshots/homepage_dark1.png" width="220"/>
-  <img src="screenshots/homepage_dark2.png" width="220"/>
+  <img src="/screenshots/homepage_dark2.png" width="220"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/homepage_white1.png" width="220"/>
-  <img src="screenshots/homepage_white2.png" width="220"/>
+  <img src="/screenshots/homepage_white1.png" width="220"/>
+  <img src="/screenshots/homepage_white2.png" width="220"/>
 </p>
 
 ---
@@ -37,12 +37,12 @@ Güvenli ve sade bir kimlik doğrulama süreci.
 - Firebase Authentication altyapısı
 
 <p align="center">
-  <img src="screenshots/login_dark.png" width="230"/>
-  <img src="screenshots/register_dark.png" width="230"/>
+  <img src="/screenshots/login_dark.png" width="230"/>
+  <img src="/screenshots/register_dark.png" width="230"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/login_white.png" width="230"/>
+  <img src="/screenshots/login_white.png" width="230"/>
 </p>
 
 ---
@@ -57,9 +57,9 @@ Türk İşaret Dili kelimelerinin yapılandırılmış şekilde öğrenilmesini 
 - Detaylı kelime ekranı
 
 <p align="center">
-  <img src="screenshots/kelimeler.png" width="200"/>
-  <img src="screenshots/kelimedetay.png" width="200"/>
-  <img src="screenshots/kelimeler_detay.png" width="200"/>
+  <img src="/screenshots/kelimeler.png" width="200"/>
+  <img src="/screenshots/kelimedetay.png" width="200"/>
+  <img src="/screenshots/kelimeler_detay.png" width="200"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ Uygulamanın en ayırt edici özelliğidir.
 - ML servisi ile API tabanlı entegrasyon
 
 <p align="center">
-  <img src="screenshots/işaret2.jpg" width="230"/>
+  <img src="/screenshots/işaret2.jpg" width="230"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@ Kullanıcının sürekliliğini artırmaya yönelik öğrenme destek sistemi.
 - Bildirim desteği
 
 <p align="center">
-  <img src="screenshots/günlük_kelime_dark.png" width="220"/>
+  <img src="/screenshots/günlük_kelime_dark.png" width="220"/>
 </p>
 
 ---
@@ -102,7 +102,7 @@ Kullanıcının sürekliliğini artırmaya yönelik öğrenme destek sistemi.
 - Quiz sonrası geri bildirim
 
 <p align="center">
-  <img src="screenshots/quiz_dark.png" width="220"/>
+  <img src="/screenshots/quiz_dark.png" width="220"/>
 </p>
 
 ---
@@ -117,8 +117,8 @@ Kullanıcı motivasyonunu artıran oyunlaştırma sistemi.
 - Mükemmel hafta rozeti
 
 <p align="center">
-  <img src="screenshots/rozetler_dark1.png" width="200"/>
-  <img src="screenshots/rozetler_dark2.png" width="200"/>
+  <img src="/screenshots/rozetler_dark1.png" width="200"/>
+  <img src="/screenshots/rozetler_dark2.png" width="200"/>
 </p>
 
 ---
@@ -133,8 +133,8 @@ Kullanıcının gelişimini görselleştirir.
 - Kategori bazlı ilerleme
 
 <p align="center">
-  <img src="screenshots/istatistik.png" width="220"/>
-  <img src="screenshots/istatistik_white.png" width="220"/>
+  <img src="/screenshots/istatistik.png" width="220"/>
+  <img src="/screenshots/istatistik_white.png" width="220"/>
 </p>
 
 ---
@@ -147,8 +147,8 @@ Kullanıcının gelişimini görselleştirir.
 - Profil görüntüleme
 
 <p align="center">
-  <img src="screenshots/arkadaş.png" width="220"/>
-  <img src="screenshots/arkadaş2.png" width="220"/>
+  <img src="/screenshots/arkadaş.png" width="220"/>
+  <img src="/screenshots/arkadaş2.png" width="220"/>
 </p>
 
 ### 💬 Mesajlaşma (Chat)
@@ -157,8 +157,8 @@ Kullanıcının gelişimini görselleştirir.
 - Kamera destekli iletişim
 
 <p align="center">
-  <img src="screenshots/chat.png" width="220"/>
-  <img src="screenshots/chat2.png" width="220"/>
+  <img src="/screenshots/chat.png" width="220"/>
+  <img src="/screenshots/chat2.png" width="220"/>
 </p>
 
 ---
@@ -171,8 +171,8 @@ Kullanıcının gelişimini görselleştirir.
 - Bildirim ayarları
 
 <p align="center">
-  <img src="screenshots/profil.png" width="220"/>
-  <img src="screenshots/ayarlar.png" width="220"/>
+  <img src="/screenshots/profil.png" width="220"/>
+  <img src="/screenshots/ayarlar.png" width="220"/>
 </p>
 
 ---
@@ -184,8 +184,8 @@ Kullanıcının gelişimini görselleştirir.
 - Yardım ve bilgilendirme ekranları
 
 <p align="center">
-  <img src="screenshots/notification.png" width="220"/>  
-  <img src="screenshots/yardım.png" width="220"/>  
+  <img src="/screenshots/notification.png" width="220"/>  
+  <img src="/screenshots/yardım.png" width="220"/>  
 </p>
 
 ---
@@ -196,7 +196,7 @@ Kullanıcının gelişimini görselleştirir.
 - Sistem kontrolü
 
 <p align="center">
-  <img src="screenshots/içerikyonetim_dark.png" width="230"/>
+  <img src="/screenshots/içerikyonetim_dark.png" width="230"/>
 </p>
 
 ---
@@ -208,4 +208,5 @@ Teknik mimari ve entegrasyon detayları için aşağıdaki dosyalara bakabilirsi
 
 - `mimari.md`
 - `ml-integration.md`
+
 
